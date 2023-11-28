@@ -1,0 +1,17 @@
+E:\Games\училище\Програмиране от вкъщи\MMG\MMG\bin\Debug\net6.0-windows\MMG.exe
+E:\Games\училище\Програмиране от вкъщи\MMG\MMG\bin\Debug\net6.0-windows\MMG.deps.json
+E:\Games\училище\Програмиране от вкъщи\MMG\MMG\bin\Debug\net6.0-windows\MMG.runtimeconfig.json
+E:\Games\училище\Програмиране от вкъщи\MMG\MMG\bin\Debug\net6.0-windows\MMG.dll
+E:\Games\училище\Програмиране от вкъщи\MMG\MMG\bin\Debug\net6.0-windows\MMG.pdb
+E:\Games\училище\Програмиране от вкъщи\MMG\MMG\obj\Debug\net6.0-windows\MMG.csproj.AssemblyReference.cache
+E:\Games\училище\Програмиране от вкъщи\MMG\MMG\obj\Debug\net6.0-windows\MMG.Form1.resources
+E:\Games\училище\Програмиране от вкъщи\MMG\MMG\obj\Debug\net6.0-windows\MMG.csproj.GenerateResource.cache
+E:\Games\училище\Програмиране от вкъщи\MMG\MMG\obj\Debug\net6.0-windows\MMG.GeneratedMSBuildEditorConfig.editorconfig
+E:\Games\училище\Програмиране от вкъщи\MMG\MMG\obj\Debug\net6.0-windows\MMG.AssemblyInfoInputs.cache
+E:\Games\училище\Програмиране от вкъщи\MMG\MMG\obj\Debug\net6.0-windows\MMG.AssemblyInfo.cs
+E:\Games\училище\Програмиране от вкъщи\MMG\MMG\obj\Debug\net6.0-windows\MMG.csproj.CoreCompileInputs.cache
+E:\Games\училище\Програмиране от вкъщи\MMG\MMG\obj\Debug\net6.0-windows\MMG.dll
+E:\Games\училище\Програмиране от вкъщи\MMG\MMG\obj\Debug\net6.0-windows\refint\MMG.dll
+E:\Games\училище\Програмиране от вкъщи\MMG\MMG\obj\Debug\net6.0-windows\MMG.pdb
+E:\Games\училище\Програмиране от вкъщи\MMG\MMG\obj\Debug\net6.0-windows\MMG.genruntimeconfig.cache
+E:\Games\училище\Програмиране от вкъщи\MMG\MMG\obj\Debug\net6.0-windows\ref\MMG.dll
